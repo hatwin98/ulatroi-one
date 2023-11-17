@@ -30,6 +30,8 @@ Public Github Repo: https://github.com/hatwin98/ulatroi-one/
 
 ## Screenshot
 
+<img width="1512" alt="horiseon" src="https://github.com/hatwin98/ulatroi-one/assets/143030127/de6bca14-1c63-4436-b37c-83d50f70a984">
+
 
 ## Summary
 
