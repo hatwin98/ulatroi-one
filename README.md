@@ -35,5 +35,5 @@ Public Github Repo: https://github.com/hatwin98/ulatroi-one/
 
 ## Summary
 
-
+Through this project, I gained a great deal of knowledge about HTML semantic elements, which give HTML pages more functionality and accessibility, as well as the methodology and thought processes behind code restructuring.
 
